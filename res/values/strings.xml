@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Color Paper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fullscreen">Color Paper</string>
+    <string name="dummy_button">Select Color</string>
+    <string name="dummy_content">1.First, Select Your  Color.\n\n2.Check preview on this backgroud. \n\n3.Click on \'Set Wallpaper\'. \n\n4.Done, Enjoy.</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+
+</resources>
